@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.datagrid-container {
+  height: 600px;
+  padding: 10px;
+}

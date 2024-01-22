@@ -1,0 +1,3 @@
+export const SMALL_MOBILE_SCREEN_WIDTH = 440;
+export const MOBILE_SCREEN_WIDTH = 768;
+
